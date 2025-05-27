@@ -1,0 +1,29 @@
+.container-icons {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.hero-svg {
+    margin-bottom: 100px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    border: none;
+    display: none;
+}
+
+.hero-svg:hover {
+    border: 2px solid gainsboro;
+}
+
+
+
+@media screen and (max-width:920px) {
+.hero-svg{
+    display: block;
+}
+    
+}

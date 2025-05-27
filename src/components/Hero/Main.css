@@ -1,0 +1,32 @@
+.div-main {
+    margin-top: 100px;
+    margin-left: 25%;
+}
+
+.main-text {
+    text-align: left;
+    font-size: 1.20rem;
+    font-weight: 400;
+}
+
+
+@media screen and (min-width: 780px) and (max-width: 1429px) {
+ .div-main {
+    margin-left: 20%;
+ }
+
+ .main-text {
+    font-size: 1.10rem;
+ }
+}
+
+@media screen and (max-width: 780px) {
+ .div-main {
+    margin-left: 10px;
+    width: 650px;
+ }
+
+ .main-text {
+    font-size: 1rem;
+ }
+}

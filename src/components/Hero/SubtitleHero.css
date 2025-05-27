@@ -1,0 +1,26 @@
+.subtitle-hero {
+    width: 100%;
+}
+
+.subtitle {
+  color: black;
+  margin-top: 10%;
+  padding-left: 20%;
+  text-align: left; 
+  font-weight: bold;
+}
+
+@media screen and (min-width:780px) and (max-width:1429px) {
+  .subtitle{
+    margin-top: 200px;
+    padding-left: 6%;
+    font-size: 1.4rem;
+  }
+}
+@media screen and  (max-width:780px) {
+  .subtitle{
+    margin-top: 50px;
+    padding-left:0;
+    font-size: 1.4rem;
+  }
+}
