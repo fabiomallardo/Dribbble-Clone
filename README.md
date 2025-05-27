@@ -5,6 +5,6 @@ Clone di una pagina Dribbble realizzato in React, per pratica front-end e compon
 ## ⚙️ Tech Stack
 
 - ⚛️ **React** (CRA / Vite)
-- 🎨 **CSS
+- 🎨 **CSS**
 - 📁 React components & folder structure
 - 📷 **Assets locali** 
